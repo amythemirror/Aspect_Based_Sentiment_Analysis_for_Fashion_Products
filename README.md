@@ -1,4 +1,4 @@
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/fashion_brands.jpg" width=80%>
+<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/fashion_brands.jpg">
 
 # Aspect Based Sentiment Analysis for Fashion Products
 The fashion industry is characterized by rapidly changing trends and consumer preferences. Consumers express their emotions through product reviews and social networks such as Instagram, Facebook and Twitter. The ability to detect consumer satisfaction from user-generated content online can be very useful for fashion brands to swiftly respond to customer needs accordingly.
@@ -27,8 +27,7 @@ Some major data wrangling steps including:
 ### Review Word Clouds
 We can clearly see what are the most frequently used words in the reviews for a specific product from its word cloud. For the shoe insole, the words with the highest frequencies are foot, shoe and insole. Some other words that are frequently used in the reviews are good, support, great and arch. For the yoga pants, the words with the highest frequencies are fit, love, great and pant. Some other words that are frequently used in the reviews are color, wear and pair.
 
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/word_cloud_1.png">
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/word_cloud_2.png">
+<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/word_cloud_1.png" width=80%><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/word_cloud_2.png" width=80%>
 
 ### Review Sentiment Distribution
 The stacked bar chart shows the review sentiment distribution from 2002 to 2018. We can see that the largest lift in the positive review percentage took place between 2005 and 2006, an increase from 62% to 76% to be specific.
