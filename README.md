@@ -48,7 +48,7 @@ we provide a list of six aspects the fashion industry is commonly interested in:
 * Embed each extracted word and each aspect from the given list, compute the semantic similarity between each word-aspect pair
 * Examine the word-aspect pairs with the highest semantic similarities, and select the similarity threshold for the aspect extraction step of the ABSA pipeline.
 
-## Sentiment Analysis
+## [Sentiment Analysis](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/tree/main/Sentiment_Analysis)
 Sentiment prediction is a classification problem and the label is the underlying sentiment of a review. We map reviews with ratings of 5 or 4 as Positive, 3 as Neutral, 2 or 1 as Negative.
 
 ### Feature Engineering
@@ -58,17 +58,17 @@ We embed tokens as vectors using below common techniques depending on the charac
 * Word2Vec using the pre-trained model on Google News dataset
 
 ### Model Training
-We evaluate below classical [machine learning algorithms](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Sentiment_Analysis_Machine_Learning.ipynb):
+We evaluate below classical [machine learning algorithms](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Sentiment_Analysis/Sentiment_Analysis_Machine_Learning.ipynb):
 * Logistic Regression
 * Multinomial Naive Bayes
 * Random Forest
 
 We evaluate below neural network algorithms:
-* [LSTM](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Sentiment_Analysis_LSTM.ipynb)
+* [LSTM](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Sentiment_Analysis/Sentiment_Analysis_LSTM.ipynb)
   * LSTM
   * Bidirectional LSTM
   * LSTM with attention layer
-* [Transformer (BERT model)](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Sentiment_Analysis_Transformer.ipynb)
+* [Transformer (BERT model)](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Sentiment_Analysis/Sentiment_Analysis_Transformer.ipynb)
 
 ### Model Evaluation
 The transformer model has the highest weighted accuracy and F1, as well as F1 for negative reviews. The logistic regression model trained on TF-IDF features also has decent performance, and the prediction time on the test dataset is significantly faster than the transformer model.
