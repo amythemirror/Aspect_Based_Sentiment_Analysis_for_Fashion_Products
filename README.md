@@ -83,17 +83,17 @@ We create a novel ABSA pipeline for the fashion industry. The pipeline preproces
 ### Positive Review Example
 <img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_1.png" width=80%>
 
-**Pipeline output**
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_1.png">
+>**Pipeline output**
+><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_1.png">
 
 ### Neutral Review Example
 <img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_2.png" width=80%>
 
-**Pipeline output**
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_2.png">
+>**Pipeline output**
+><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_2.png">
 
 ### Negative Review Example
 <img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_3.png" width=80%>
 
-**Pipeline output**
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_3.png" width=50%>
+>**Pipeline output**
+><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_3.png" width=50%>
