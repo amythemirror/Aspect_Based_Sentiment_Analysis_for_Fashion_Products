@@ -80,20 +80,20 @@ Our recommendations are twofold for this ABSA project and fashion brands should 
 ## [ABSA Pipeline](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/ABSA_Pipeline.ipynb)
 We create a novel ABSA pipeline for the fashion industry. The pipeline preprocesses the textual data, extracts the underlying aspect(s), and predicts the sentiment for the extracted aspect(s) in a streamlined process.
 
-### Positive Review Example
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_1.png" width=50%>
+### [Positive Review Example](https://www.amazon.com/gp/customer-reviews/R2D9JK13WPNO5V/)
+<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_1.png" width=60%>
 
 **Pipeline output**
 ><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_1.png">
 
-### Neutral Review Example
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_2.png" width=50%>
+### [Neutral Review Example](https://www.amazon.com/gp/customer-reviews/R2RNIJ7N09BNE8/)
+<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_2.png" width=60%>
 
 **Pipeline output**
 ><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_2.png">
 
-### Negative Review Example
-<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_3.png" width=50%>
+### [Negative Review Example](https://www.amazon.com/gp/customer-reviews/R3E1GV6HPZ32XE/)
+<img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/review_example_3.png" width=60%>
 
 **Pipeline output**
 ><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_3.png" width=50%>
