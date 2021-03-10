@@ -97,3 +97,10 @@ We create a novel ABSA pipeline for the fashion industry. The pipeline preproces
 
 **Pipeline output**
 ><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_3.png" width=50%>
+
+## Future Improvements
+* Extract quantities, measurements and their units from numbers in the preprocessing step, and utilize them to improve aspect extraction and sentiment analysis results.
+* Train a model on annotated data for better aspect extraction.
+* Include emoticons as features for the sentiment analysis.
+* Tune hyperparameters for the transformer model.
+* Train the LSTM model on the entire Amazon Fashion review dataset.
