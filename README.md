@@ -48,7 +48,7 @@ we provide a list of six aspects the fashion industry is commonly interested in:
 * Embed each extracted word and each aspect from the given list, compute the semantic similarity between each word-aspect pair
 * Examine the word-aspect pairs with the highest semantic similarities, and select the similarity threshold for the aspect extraction step of the ABSA pipeline.
 
-## [Sentiment Analysis](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/tree/main/Sentiment_Analysis)
+## [Sentiment Prediction](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/tree/main/Sentiment_Analysis)
 Sentiment prediction is a classification problem and the label is the underlying sentiment of a review. We map reviews with ratings of 5 or 4 as Positive, 3 as Neutral, 2 or 1 as Negative.
 
 ### Feature Engineering
@@ -99,8 +99,8 @@ We create a novel ABSA pipeline for the fashion industry. The pipeline preproces
 ><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/output_example_3.png" width=50%>
 
 ## Future Improvements
-* Extract quantities, measurements and their units from numbers in the preprocessing step, and utilize them to improve aspect extraction and sentiment analysis results.
+* Extract quantities, measurements and their units from numbers in the preprocessing step, and utilize them to improve aspect extraction and sentiment prediction results.
 * Train a model on annotated data for better aspect extraction.
-* Include emoticons as features for the sentiment analysis.
+* Include emoticons as features for the sentiment prediction.
 * Tune hyperparameters for the transformer model.
 * Train the LSTM model on the entire Amazon Fashion review dataset.
