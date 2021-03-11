@@ -25,7 +25,7 @@ Some major data wrangling steps including:
 
 ## [Exploratory Data Analysis](https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/Data_Wrangling_and_EDA.ipynb)
 ### Review Word Clouds
-We can clearly see what are the most frequently used words in the reviews for a specific product from its word cloud. For the shoe insole, the words with the highest frequencies are foot, shoe and insole. Some other words that are frequently used in the reviews are good, support, great and arch. For the yoga pants, the words with the highest frequencies are fit, love, great and pant. Some other words that are frequently used in the reviews are color, wear and pair.
+We can clearly see what are the most frequently used words in the reviews for a specific product from its word cloud. For the shoe insole, the words with the highest frequencies are *foot, shoe* and *insole*. Some other words that are frequently used in the reviews are *good, support, great* and *arch*. For the yoga pants, the words with the highest frequencies are *fit, love, great* and *pant*. Some other words that are frequently used in the reviews are *color, wear* and *pair*.
 
 <img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/word_cloud_1.png" width=50%><img src="https://github.com/amythemirror/Aspect_Based_Sentiment_Analysis_for_Fashion_Products/blob/main/README_files/word_cloud_2.png" width=50%>
 
